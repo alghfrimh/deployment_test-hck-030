@@ -1,0 +1,8 @@
+pandas
+streamlit
+matplotlib
+seaborn
+pillow
+numpy==2.2.6
+scikit-learn==1.7.1
+feature-engine==1.8.3
