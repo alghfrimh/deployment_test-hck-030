@@ -10,7 +10,7 @@ from PIL import Image
 def run():
     # Header
     st.write('# FIFA Player Data Analysis')
-    gambar = Image.open('ref_images/dump.jpg')
+    gambar = Image.open('dump.jpg')
     st.image(gambar)
 
     # Latar belakang
